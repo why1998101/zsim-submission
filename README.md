@@ -19,5 +19,5 @@ Copy the unpacked folder to root directory of zsim-optimized or zsim-base.
 
 Note that in step 4, whether you clone zsim-optimized or zsim-base, the instructions make it our optimized version (for zsim-base, just replace the source code we modified and add our new test configuration files to make it the same as zsim-optimized).
 
-If you also want to compile a default version of ZSim, just clone zsim-base and run __make zsim__. If you want to run our tests using default ZSim, just copy the test executables and test configuration files to the same places (both before or after compilation is fine)
+If you also want to compile a default version of ZSim, just clone zsim-base and run __make zsim__ if you have set up the Ubuntu 16.04 environment and installed all the required packages. If you want to run our tests using default ZSim, just copy the test executables and test configuration files to the same places (both before or after compilation is fine)
 as mentioned above and start a simulation in the same way.
